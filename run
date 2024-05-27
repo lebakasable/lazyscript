@@ -1,0 +1,2 @@
+#!/bin/sh
+tsc lazy.ts --noEmit && bun run lazy.ts
